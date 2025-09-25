@@ -3,6 +3,8 @@ content_type: page
 description: This section provides examples of student work. These proposals and letters
   of intent that are the basis for the work of the semester for each group.  Each
   work is courtesy of the students named in the file, and used with permission.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -5,6 +5,8 @@ description: This is a "Request for Proposals" which includes an explanatory not
 file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/f524d757ff5adda35d6a625cb3abe94b_NepalRFP0203.pdf
 file_size: 187676
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

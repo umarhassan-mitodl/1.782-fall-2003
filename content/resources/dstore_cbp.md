@@ -11,6 +11,8 @@ description: 'This is a proposal prepared by the student group Drugstore Cowboys
 file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/8d46eb4c735c8a0135a54c14f625422d_dstore_cbp.pdf
 file_size: 350253
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

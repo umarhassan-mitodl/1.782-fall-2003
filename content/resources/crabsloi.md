@@ -6,6 +6,8 @@ description: CRABS (Caribbean Research Association for the Betterment of water r
 file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/64d67177e036165f44cbf1bb0789c2af_crabsloi.pdf
 file_size: 177150
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

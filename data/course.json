@@ -40,6 +40,7 @@
     "website": "1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004"
   },
   "course_title": "Environmental Engineering Masters of Engineering Project",
+  "hide_download": true,
   "course_description": "This class is one of the core requirements for the Environmental Masters of Engineering program. It is designed to teach about environmental engineering through the use of case studies, computer software tools, and seminars from industrial experts. Case studies provide the basis for group projects as well as individual theses. Past case studies have included the MMR Superfund site on Cape Cod; restoration of the Florida Everglades; dredging of Boston Harbor; local watershed trading programs; appropriate wastewater treatment technology for Brazil; point-of-use water treatment for Nepal, Brownfields Development in Providence, RI, and water resource planning for the island of Cyprus. This class spans the entire academic year: students must register for the Fall term, IAP, and the Spring term.\n",
   "department_numbers": [
     "1"
@@ -50,6 +51,7 @@
     "content": "7a21125b-b0b2-0cf9-08df-47bde3a2b0fc",
     "website": "1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples",
     "Written Assignments with Examples"

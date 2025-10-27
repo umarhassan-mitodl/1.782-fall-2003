@@ -3,8 +3,6 @@ content_type: page
 description: This section provides examples of final project reports and final presentations
   from the class. Each is courtesy of the students named in the file and used with
   permission.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

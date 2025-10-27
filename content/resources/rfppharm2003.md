@@ -6,8 +6,6 @@ description: This is a "Request for Proposals" which includes an explanatory not
 file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/dc2624322f9f7cadcf9cb8dbcd2ca0f3_RFPPharm2003.pdf
 file_size: 33623
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

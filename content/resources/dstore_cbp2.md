@@ -5,8 +5,6 @@ description: Slides for the Drugstore Cowboys group project presentation. Courte
 file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/044f99352984c7d0890876c176c7fced_dstore_cbp2.pdf
 file_size: 860929
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
